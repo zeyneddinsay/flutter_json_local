@@ -1,0 +1,290 @@
+[
+    {
+        "araba_adi":"Mercedes",
+        "ulke": "Almanya",
+        "kurulus_yil": 1920,
+        "model":[
+            {
+                "model adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": false
+            }
+        ]
+    },
+    {
+        "araba_adi":"Honda",
+        "ulke": "Japonya",
+        "kurulus_yil": 1920,
+        "model":[
+            {
+                "model adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": false
+            }
+        ]
+    },
+    {
+        "araba_adi":"Mercedes",
+        "ulke": "Almanya",
+        "kurulus_yil": 1920,
+        "model":[
+            {
+                "model adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": false
+            }
+        ]
+    },
+    {
+        "araba_adi":"Honda",
+        "ulke": "Japonya",
+        "kurulus_yil": 1920,
+        "model":[
+            {
+                "model adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": false
+            }
+        ]
+    },
+    {
+        "araba_adi":"Mercedes",
+        "ulke": "Almanya",
+        "kurulus_yil": 1920,
+        "model":[
+            {
+                "model adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": false
+            }
+        ]
+    },
+    {
+        "araba_adi":"Honda",
+        "ulke": "Japonya",
+        "kurulus_yil": 1920,
+        "model":[
+            {
+                "model adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": false
+            }
+        ]
+    },
+    {
+        "araba_adi":"Mercedes",
+        "ulke": "Almanya",
+        "kurulus_yil": 1920,
+        "model":[
+            {
+                "model adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": false
+            }
+        ]
+    },
+    {
+        "araba_adi":"Honda",
+        "ulke": "Japonya",
+        "kurulus_yil": 1920,
+        "model":[
+            {
+                "model adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": false
+            }
+        ]
+    },
+    {
+        "araba_adi":"Mercedes",
+        "ulke": "Almanya",
+        "kurulus_yil": 1920,
+        "model":[
+            {
+                "model adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": false
+            }
+        ]
+    },
+    {
+        "araba_adi":"Honda",
+        "ulke": "Japonya",
+        "kurulus_yil": 1920,
+        "model":[
+            {
+                "model adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": false
+            }
+        ]
+    },
+    {
+        "araba_adi":"Mercedes",
+        "ulke": "Almanya",
+        "kurulus_yil": 1920,
+        "model":[
+            {
+                "model adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": false
+            }
+        ]
+    },
+    {
+        "araba_adi":"Honda",
+        "ulke": "Japonya",
+        "kurulus_yil": 1920,
+        "model":[
+            {
+                "model adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": false
+            }
+        ]
+    },
+    {
+        "araba_adi":"Mercedes",
+        "ulke": "Almanya",
+        "kurulus_yil": 1920,
+        "model":[
+            {
+                "model adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": false
+            }
+        ]
+    },
+    {
+        "araba_adi":"Honda",
+        "ulke": "Japonya",
+        "kurulus_yil": 1920,
+        "model":[
+            {
+                "model adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": false
+            }
+        ]
+    },
+    {
+        "araba_adi":"Mercedes",
+        "ulke": "Almanya",
+        "kurulus_yil": 1920,
+        "model":[
+            {
+                "model adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": false
+            }
+        ]
+    },
+    {
+        "araba_adi":"Honda",
+        "ulke": "Japonya",
+        "kurulus_yil": 1920,
+        "model":[
+            {
+                "model adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": false
+            }
+        ]
+    },
+    {
+        "araba_adi":"Mercedes",
+        "ulke": "Almanya",
+        "kurulus_yil": 1920,
+        "model":[
+            {
+                "model adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": false
+            }
+        ]
+    },
+    {
+        "araba_adi":"Honda",
+        "ulke": "Japonya",
+        "kurulus_yil": 1920,
+        "model":[
+            {
+                "model adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": false
+            }
+        ]
+    },
+    {
+        "araba_adi":"Mercedes",
+        "ulke": "Almanya",
+        "kurulus_yil": 1920,
+        "model":[
+            {
+                "model adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": false
+            }
+        ]
+    },
+    {
+        "araba_adi":"Honda",
+        "ulke": "Japonya",
+        "kurulus_yil": 1920,
+        "model":[
+            {
+                "model adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": false
+            }
+        ]
+    },
+    {
+        "araba_adi":"Mercedes",
+        "ulke": "Almanya",
+        "kurulus_yil": 1920,
+        "model":[
+            {
+                "model adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": false
+            }
+        ]
+    },
+    {
+        "araba_adi":"Honda",
+        "ulke": "Japonya",
+        "kurulus_yil": 1920,
+        "model":[
+            {
+                "model adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": false
+            }
+        ]
+    },
+    {
+        "araba_adi":"Mercedes",
+        "ulke": "Almanya",
+        "kurulus_yil": 1920,
+        "model":[
+            {
+                "model adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": false
+            }
+        ]
+    },
+    {
+        "araba_adi":"Honda",
+        "ulke": "Japonya",
+        "kurulus_yil": 1920,
+        "model":[
+            {
+                "model adi": "a serisi",
+                "fiyat": 15000,
+                "benzinli": false
+            }
+        ]
+    }
+]
